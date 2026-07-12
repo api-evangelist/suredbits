@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://suredbits.com/api/
 common:
+  - type: DomainSecurity
+    url: security/suredbits-domain-security.yml
   - type: Website
     url: https://suredbits.com/api/
   - type: PublicAPIsListing
