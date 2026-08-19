@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/suredbits.
 name: SuredBits
 description: "Query sports data, including teams, players, games, scores and statistics"
 url: https://suredbits.com/api/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
