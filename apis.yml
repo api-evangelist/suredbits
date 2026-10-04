@@ -33,13 +33,13 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Sports
+  - Sports Data
 apis:
   - name: SuredBits
     description: "Query sports data, including teams, players, games, scores and statistics"
     humanURL: https://suredbits.com/api/
-    baseURL: https://suredbits.com/api/
     tags:
       - Sports And Fitness
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Sports And Fitness
